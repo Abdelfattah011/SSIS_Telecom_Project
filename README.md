@@ -42,14 +42,14 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
 ## 🚀 Control Flow
 
 <p align="center">
-  <img src="Data_Control.png" alt="Data Engineering Control Flow" width="50%">
+  <img src="Data_Control.png" alt="Data Engineering Control Flow" width="75%">
 </p>
 
 
 ## **🚀 Data Flow**
 
 <p align="center">
-  <img src="Data_Flow.png" alt="Data Engineering Data Flow" width="100%">
+  <img src="Data_Flow.png" alt="Data Engineering Data Flow" width="75%">
 </p>
 
 ### 2. Transformation & Mapping Rules

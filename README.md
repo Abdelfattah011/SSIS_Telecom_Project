@@ -83,4 +83,3 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
 4. **Run the Package:**
    - Place a batch CSV file in `Source Files/` and trigger the package execution.
 
-```

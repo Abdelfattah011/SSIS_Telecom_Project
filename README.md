@@ -7,6 +7,10 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
 
 ---
 
+<p align="center">
+  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+</p>
+
 ## 🏗️ Repository Architecture & Folder Structure
 
 ```plaintext
@@ -34,6 +38,19 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
   - `EVENT_TS` (Timestamp, Non-nullable)
 
 ---
+
+### Control Flow
+
+<p align="center">
+  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+</p>
+
+
+### Data Flow
+
+<p align="center">
+  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+</p>
 
 ### 2. Transformation & Mapping Rules
 

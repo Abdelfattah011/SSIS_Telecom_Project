@@ -8,7 +8,7 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
 ---
 
 <p align="center">
-  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+  <img src="Project_.jpg" alt="Data Engineering SSIS" width="100%">
 </p>
 
 ## 🏗️ Repository Architecture & Folder Structure
@@ -42,14 +42,14 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline us
 ### Control Flow
 
 <p align="center">
-  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+  <img src="Data_Control.png" alt="Data Engineering Pipeline Phases" width="100%">
 </p>
 
 
 ### Data Flow
 
 <p align="center">
-  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+  <img src=Data_Flow.png" alt="Data Engineering Pipeline Phases" width="100%">
 </p>
 
 ### 2. Transformation & Mapping Rules
